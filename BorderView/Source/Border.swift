@@ -13,17 +13,17 @@ extension CGColor {
 }
 
 //@IBDesignable
-open class ViewBorder : UIView {
-    
-}
-
-open class ButtonBorder : UIButton {
-    
-}
-
-open class LabelBorder : UILabel {
-    
-}
+//open class ViewBorder : UIView {
+//
+//}
+//
+//open class ButtonBorder : UIButton {
+//
+//}
+//
+//open class LabelBorder : UILabel {
+//
+//}
 
 //@IBDesignable
 extension UIView {

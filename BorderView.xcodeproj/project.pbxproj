@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -49,18 +49,18 @@
 			isa = PBXGroup;
 			children = (
 				43F95128212AF49000003374 /* Source */,
-				43F95127212AF40B00003374 /* Supporting Files */,
+				43F95127212AF40B00003374 /* Support Files */,
 			);
 			path = BorderView;
 			sourceTree = "<group>";
 		};
-		43F95127212AF40B00003374 /* Supporting Files */ = {
+		43F95127212AF40B00003374 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
 				43F95116212AF17800003374 /* BorderView.h */,
 				43F95117212AF17800003374 /* Info.plist */,
 			);
-			path = "Supporting Files";
+			path = "Support Files";
 			sourceTree = "<group>";
 		};
 		43F95128212AF49000003374 /* Source */ = {
@@ -119,7 +119,7 @@
 				};
 			};
 			buildConfigurationList = 43F9510D212AF17800003374 /* Build configuration list for PBXProject "BorderView" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
